@@ -8,3 +8,9 @@ In the second tutorial (developed by Nils), students learn about the basics of r
 In the third tutorial (developed by Miriam), students fit a simple reinforcement learning model to the data to see if there are effects of stress and volatility on subjects' learning rates. Note that for simplicity, the model fitted in this tutorial does not contain one of the parameters in Behrens et al., 2007, which distorts the probability function. This free parameter is important for modelling the task, as it allows for subjects who assign different weights to reward probabilities and reward magnitudes.
 In the final tutorial (developed by Jacquie), students learn about how to perform statistical inference on their fitted models, and also prepare to write up the practical.
 Please let the tutorial authors know if you encounter any unintentional errors. Please also feel free to contact us if you have any questions, although we may not be able to respond to all enquiries.
+
+
+NK: 
+- add full path ../decision_task (it is not working when used in an external HDD
+- create in there a "data" folder
+-
